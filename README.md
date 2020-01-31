@@ -1,14 +1,8 @@
-# RepoName
-Date Created: 01/00/20 | Date Modified: 01/00/20
+# Object Method Methods
+Date Created: 01/31/20 | Date Modified: 01/31/20
 
-<!-- [![Netlify Status]]() -->
+*This assignment is practice for Book 3: Chapter 11 of NSS's course work. Link to the assignment: https://github.com/TrinityTerry/client-side-mastery/blob/master/book-3-the-initiate/chapters/JS_OBJECT_METHODS_SPREAD.md#lightning-exercises*
 
-*This assignment is practice for Book X: Chapter X of NSS's course work. Link to the assignment: linktoassignmenthere*
-
-Preview assignment here: linktopreviewhere
 ***
-Add Title to html Page
 
-Add short description of assignment
-
-![](screenshot.png)# nss-js-adv-obj-methods-lightning
+![](screenshot.png)
